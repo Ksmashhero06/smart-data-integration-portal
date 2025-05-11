@@ -1,0 +1,32 @@
+{
+    "student1": {
+        "password": "pass123",
+        "role": "student",
+        "id": "0b8e576a-5fb4-4ffe-aa7a-20b0b01670b3"
+    },
+    "faculty1": {
+        "password": "pass456",
+        "role": "faculty",
+        "id": "88857eb0-86e5-48e7-abd0-6f25558456a3"
+    },
+    "admin1": {
+        "password": "pass789",
+        "role": "admin",
+        "id": "f345093f-a24c-4bb9-a3c2-2bf28ed062fc"
+    },
+    "developer1": {
+        "password": "pass101",
+        "role": "developer",
+        "id": "f5121a2f-2e89-41d8-b1e6-d4a3981f243d"
+    },
+    "Ksmashhero06": {
+        "password": "hero06",
+        "role": "developer",
+        "id": "c9e2aea1-3a36-46a4-a304-00d39015fc12"
+    },
+    "Sathiyamoorthi K": {
+        "password": "hero06",
+        "role": "student",
+        "id": "62f7418f-d33c-4cb0-856c-1dfcaafc30b6"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "result": "Double-spending attempt detected",
+    "details": {
+        "block_index": 1,
+        "duplicated_block_index": 4,
+        "data": "Sathiyamoorthi K, second year student from IT department, had successfully completed his internship at Layer Codes Technologies from 12.02.2025 to 22.02.2025(10 days)",
+        "hash": "955b143e30650e4965f016348a0868772af51f591bd2031b7afd3c97a2e0784e",
+        "description": "Duplicated block 1 to simulate using the same report twice."
+    }
+}

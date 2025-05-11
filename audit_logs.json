@@ -1,0 +1,254 @@
+[
+    {
+        "timestamp": 1746968821.3820608,
+        "user": "student1",
+        "action": "login",
+        "details": "User student1 logged in"
+    },
+    {
+        "timestamp": 1746968825.8353615,
+        "user": "student1",
+        "action": "logout",
+        "details": "User student1 logged out"
+    },
+    {
+        "timestamp": 1746968838.6556804,
+        "user": "faculty1",
+        "action": "login",
+        "details": "User faculty1 logged in"
+    },
+    {
+        "timestamp": 1746968855.4505327,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report e29a8a2b-d89a-4b5c-9bcd-dfea3ecbbb42 submitted"
+    },
+    {
+        "timestamp": 1746968880.46341,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report c27c0b1d-c12f-439c-962c-ce46893f82f9 submitted"
+    },
+    {
+        "timestamp": 1746968894.5734856,
+        "user": "faculty1",
+        "action": "logout",
+        "details": "User faculty1 logged out"
+    },
+    {
+        "timestamp": 1746968925.3335075,
+        "user": "admin1",
+        "action": "login",
+        "details": "User admin1 logged in"
+    },
+    {
+        "timestamp": 1746968985.417819,
+        "user": "admin1",
+        "action": "add_user",
+        "details": "User Sathiyamoorthi added with role student"
+    },
+    {
+        "timestamp": 1746969009.4617875,
+        "user": "admin1",
+        "action": "add_user",
+        "details": "User Ksmashhero06 added with role developer"
+    },
+    {
+        "timestamp": 1746969027.1589873,
+        "user": "admin1",
+        "action": "logout",
+        "details": "User admin1 logged out"
+    },
+    {
+        "timestamp": 1746969060.067218,
+        "user": "faculty1",
+        "action": "login",
+        "details": "User faculty1 logged in"
+    },
+    {
+        "timestamp": 1746969074.2952142,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report dce46046-1f1e-4fcb-b080-d48b8f1692cf submitted"
+    },
+    {
+        "timestamp": 1746969075.8860114,
+        "user": "faculty1",
+        "action": "logout",
+        "details": "User faculty1 logged out"
+    },
+    {
+        "timestamp": 1746969093.4173098,
+        "user": "Ksmashhero06",
+        "action": "login",
+        "details": "User Ksmashhero06 logged in"
+    },
+    {
+        "timestamp": 1746969111.4209912,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: tampering"
+    },
+    {
+        "timestamp": 1746969134.9717162,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: hash_collision"
+    },
+    {
+        "timestamp": 1746969142.3887906,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: double_spending"
+    },
+    {
+        "timestamp": 1746969248.1707506,
+        "user": "developer1",
+        "action": "login",
+        "details": "User developer1 logged in"
+    },
+    {
+        "timestamp": 1746969256.2837038,
+        "user": "developer1",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: tampering"
+    },
+    {
+        "timestamp": 1746969263.4250998,
+        "user": "developer1",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: hash_collision"
+    },
+    {
+        "timestamp": 1746969269.2326052,
+        "user": "developer1",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: double_spending"
+    },
+    {
+        "timestamp": 1746969274.5596328,
+        "user": "developer1",
+        "action": "logout",
+        "details": "User developer1 logged out"
+    },
+    {
+        "timestamp": 1746969278.2771187,
+        "user": "developer1",
+        "action": "login",
+        "details": "User developer1 logged in"
+    },
+    {
+        "timestamp": 1746969282.6781516,
+        "user": "developer1",
+        "action": "logout",
+        "details": "User developer1 logged out"
+    },
+    {
+        "timestamp": 1746969297.9139557,
+        "user": "admin1",
+        "action": "login",
+        "details": "User admin1 logged in"
+    },
+    {
+        "timestamp": 1746969642.9456146,
+        "user": "faculty1",
+        "action": "login",
+        "details": "User faculty1 logged in"
+    },
+    {
+        "timestamp": 1746969676.683769,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report faa0f430-0498-49e9-bb3a-d90f126bd5a9 submitted"
+    },
+    {
+        "timestamp": 1746969829.5862713,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report 68b9adad-66b6-4d7d-9bd2-1a97155d4ad4 submitted"
+    },
+    {
+        "timestamp": 1746969908.4488394,
+        "user": "faculty1",
+        "action": "submit_report",
+        "details": "Report f9e50aa0-ea45-4f6f-9205-ac9b1a9c43ca submitted"
+    },
+    {
+        "timestamp": 1746969913.2756114,
+        "user": "faculty1",
+        "action": "logout",
+        "details": "User faculty1 logged out"
+    },
+    {
+        "timestamp": 1746969921.9917712,
+        "user": "student1",
+        "action": "login",
+        "details": "User student1 logged in"
+    },
+    {
+        "timestamp": 1746969938.121967,
+        "user": "student1",
+        "action": "logout",
+        "details": "User student1 logged out"
+    },
+    {
+        "timestamp": 1746969955.8637211,
+        "user": "admin1",
+        "action": "login",
+        "details": "User admin1 logged in"
+    },
+    {
+        "timestamp": 1746969968.527388,
+        "user": "admin1",
+        "action": "add_user",
+        "details": "User Ksmashhero06 added with role developer"
+    },
+    {
+        "timestamp": 1746969987.4336154,
+        "user": "admin1",
+        "action": "add_user",
+        "details": "User Sathiyamoorthi K added with role student"
+    },
+    {
+        "timestamp": 1746970000.9921546,
+        "user": "admin1",
+        "action": "logout",
+        "details": "User admin1 logged out"
+    },
+    {
+        "timestamp": 1746970005.1128678,
+        "user": "Ksmashhero06",
+        "action": "login",
+        "details": "User Ksmashhero06 logged in"
+    },
+    {
+        "timestamp": 1746970012.7195203,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: tampering"
+    },
+    {
+        "timestamp": 1746970020.0838418,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: hash_collision"
+    },
+    {
+        "timestamp": 1746970024.8177936,
+        "user": "Ksmashhero06",
+        "action": "validate_blockchain",
+        "details": "Blockchain validation performed: double_spending"
+    },
+    {
+        "timestamp": 1746970028.6450968,
+        "user": "Ksmashhero06",
+        "action": "logout",
+        "details": "User Ksmashhero06 logged out"
+    },
+    {
+        "timestamp": 1746970272.5858424,
+        "user": "admin1",
+        "action": "login",
+        "details": "User admin1 logged in"
+    }
+]
